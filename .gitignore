@@ -1,0 +1,9 @@
+*.egg*
+*.log
+*.pyc
+.project
+.pydevproject
+.tox
+.venv
+build/*
+dist/*
